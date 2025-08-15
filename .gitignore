@@ -211,3 +211,6 @@ __marimo__/
 
 # All image files
 *.png
+
+# Mac OS
+.DS_Store
